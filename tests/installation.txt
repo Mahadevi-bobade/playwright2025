@@ -1,0 +1,7 @@
+installation of playwright
+
+npm init playwright@latest =>command to install playwright
+
+run the spec files using command
+
+npx playwright test
